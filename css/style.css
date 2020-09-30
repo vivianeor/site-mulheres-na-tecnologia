@@ -1,0 +1,92 @@
+body{
+  text-align:center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: #FFE8E6;
+  color:rgb(85, 77, 76);
+  margin: 0px 0px 30px 0px;
+}
+
+h2{
+  color:#338a54;
+  font-size: 40px;
+}
+
+.titulo-verde{
+  color: #3fc2a8;
+}
+
+.titulo-verde2{
+  color: #329c87;
+}
+
+.titulo-verde3{
+  color: #2C7A4C;
+}
+
+section{
+  width: 60%;
+  margin:0 auto;
+}
+
+section section{
+  width: 100%;
+}
+
+h1{
+  font-size: 60px;
+  font-weight: 300;
+  font-family: Rockwell, Georgia, 'Times New Roman', Times, serif;
+}
+
+h3{
+  font-size:22px;
+  font-style: italic;
+}
+
+
+p{
+  line-height: 1.5;
+  font-size: 20px;
+}
+
+img{
+  width: 100%;
+}
+
+ul{
+  list-style-type: none;
+  line-height: 2;
+  padding-left: 0;
+}
+
+a{
+  text-decoration: none;
+  color:#b93276e8;
+  font-weight: 700;
+}
+
+.principal{
+  background:#e58ab8e8;
+  height: 40px;
+  max-width: 60%;
+  margin:0 auto;
+}
+
+.principal a{
+  color:black;
+  text-decoration:bold;
+  font-weight: normal;
+}
+
+.principal li {
+  display:inline-block;
+  line-height: 2.5;
+  margin: 0 89px;
+}
+
+button{
+  color: #820086;
+  border: 1px solid;
+  padding: 2px 20px;
+  border-radius: 3px;
+}
