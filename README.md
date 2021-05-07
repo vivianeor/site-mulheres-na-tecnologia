@@ -6,3 +6,5 @@ Ao final, foi criado um formulário para que seja enviado emails com informativo
 Projeto desenvolvido durante o curso Eu ProgAmo da PrograMaria.
 
 <h4>Visite:</h4> https://siteada.vivianeor.repl.co/
+
+![image](https://user-images.githubusercontent.com/61761638/117517875-dbe12f80-af73-11eb-9146-c65acb50e8fb.png)
